@@ -1,0 +1,1 @@
+_binvox.exe -d 30 -cb toilet_0345.obj
